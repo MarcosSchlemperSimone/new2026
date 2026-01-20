@@ -1,0 +1,24 @@
+{
+  "name": "new2026",
+  "version": "1.0.0",
+  "description": "Nova Cobaia de 2026",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosSchlemperSimone/new2026.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MarcosSchlemperSimone/new2026/issues"
+  },
+  "homepage": "https://github.com/MarcosSchlemperSimone/new2026#readme",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
